@@ -242,7 +242,7 @@ export default class GameScene extends Phaser.Scene {
         case 'launcher':
           if (!this.ball.getData('onStart')){
             this.ball.setData('onStart', true);
-            this.ball.setData('dead', true);
+            // this.ball.setData('dead', true);
           }
         break;
 

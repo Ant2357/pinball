@@ -57,6 +57,7 @@ npm run start
 - [#20 - Updated audio, bounce and closing pin.](https://github.com/danielmedb/pinball2.0/pull/20)
 - [#21 - Warnings, score and hit effects.](https://github.com/danielmedb/pinball2.0/pull/21)
 - [#22 - Comments, ball modifications.](https://github.com/danielmedb/pinball2.0/pull/22)
+- [#23(Ant) - Removed unreasonable game overs.](https://github.com/danielmedb/pinball2.0/pull/23)
 
 </details>
 
