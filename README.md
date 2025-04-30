@@ -10,7 +10,7 @@ Visit link to play our pinball game [https://yrgo-pinball.netlify.app](https://y
 1. Clone repository
 
 ```
-git clone https://github.com/amandafager/pinball.git
+git clone https://github.com/Ant2357/pinball.git
 ```
 
 ```
@@ -26,10 +26,10 @@ npm i
 3. Start server
 
 ```
-npm run start
+npm run dev
 ```
 
-4. Open [http://localhost:8000 ](http://localhost:8000) in your browser
+4. Open [http://localhost:5173/](http://localhost:5173/) in your browser
 
 # Changelog
 

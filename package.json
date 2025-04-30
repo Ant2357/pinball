@@ -1,15 +1,17 @@
 {
-  "name": "Pinball2.0",
-  "version": "1.0.0",
-  "description": "School project",
+  "name": "pinball",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "start": "parcel src/index.html -p 8000",
-    "build": "parcel build src/index.html --out-dir dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "author": "Daniel & Amanda",
+  "author": "Daniel & Amanda & Ant",
   "license": "MIT",
   "devDependencies": {
+    "vite": "^6.3.1",
     "@babel/core": "^7.14.0",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
     "autoprefixer": "^10.2.5",
@@ -26,14 +28,10 @@
     "phaser3-plugin-pathbuilder": "^1.8.0",
     "prettier": "^2.2.1"
   },
-  "parcelCleanPaths": [
-    "dist"
-  ],
   "staticFiles": {
     "staticPath": "src",
     "watcherGlob": "**"
   },
-  "private": true,
   "prettier": {
     "singleQuote": true
   }
