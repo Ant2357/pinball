@@ -3,7 +3,7 @@
 
 A desktop pinball game built with Phaser 3 - A 2D WebGL renderer with a built-in game engine. In this project we have used Matter plugin witch provides the ability to use the Matter JS Physics Engine.
 
-Visit link to play our pinball game [https://yrgo-pinball.netlify.app](https://yrgo-pinball.netlify.app/)
+Visit link to play our pinball game [https://ant2357.github.io/pinball/](https://ant2357.github.io/pinball/)
 
 # Installation
 
